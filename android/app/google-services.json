@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262774624624",
+    "project_id": "air-quality-app-b21e8",
+    "storage_bucket": "air-quality-app-b21e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262774624624:android:df7d08163a28b5ad24bfb5",
+        "android_client_info": {
+          "package_name": "com.example.air_quality_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262774624624-vbk7qnasb0hh6rk9c9pet780srjq8h5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABMVDQe26NShC3gYiucyzvks218Zukps8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262774624624-vbk7qnasb0hh6rk9c9pet780srjq8h5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
